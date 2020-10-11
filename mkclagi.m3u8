@@ -1,6 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/17aa3pqk2ckpwe4/indosiar.png?dl=0" group-title="BASIC TERRESTRIAL",INDOSIAR (s-1) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
 https://salonbondang.masuk.web.id/ekonomis/stream/vidio-indosiar-ZalogiAstroXTV.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/17aa3pqk2ckpwe4/indosiar.png?dl=0" group-title="BASIC TERRESTRIAL",INDOSIAR (s-2) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
 https://salonbondang.masuk.web.id/ekonomis/stream/indosiar-ZalogiAstroXTV.m3u8
