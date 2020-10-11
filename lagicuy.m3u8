@@ -1,0 +1,11 @@
+#EXTM3U 
+#EXTINF:-1 tvg-ID="TransTV.id" tvg-logo="http://cekker.masuk.web.id/logo/transtv.png" group-title="Lokal",TRANSTV 
+https://zalogi.xyz/exo/playlist/vidio-transtv-mkctvMalingPlaylist.m3u8 
+#EXTINF:-1 tvg-ID="TransTV.id" tvg-logo="http://cekker.masuk.web.id/logo/transu.png" group-title="Lokal",TRANSTV 
+https://zalogi.xyz/exo/playlist/transtv-mkctvMalingPlaylist.m3u8 
+#EXTINF:-1 tvg-ID="Trans7.id" tvg-logo="http://cekker.masuk.web.id/logo/trans7.png" group-title="Lokal",TRANS7 
+https://zalogi.xyz/exo/playlist/vidio-trans7-mkctvMalingPlaylist.m3u8 
+#EXTINF:-1 tvg-ID="Trans7.id" tvg-logo="http://cekker.masuk.web.id/logo/trans7u.png" group-title="Lokal",TRANS7 
+https://zalogi.xyz/exo/playlist/trans7-mkctvMalingPlaylist.m3u8 
+#EXTINF:-1 tvg-ID="rcti" tvg-logo="http://cekker.masuk.web.id/logo/rctiv.png" group-title="Lokal",RCTI 
+https://zalogi.xyz/exo/playlist/mnc-rcti-mkctvMalingPlaylist.m3u8
