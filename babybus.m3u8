@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=1280x720,NAME="720p"
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602941824/ei/IJ-KX7-GK82I4-EP__yusAI/ip/103.129.221.31/id/Ge87Aej6YZI.0/source/yt_live_broadcast/requiressl/yes/tx/23906931/txs/23906925%2C23906926%2C23906927%2C23906928%2C23906929%2C23906930%2C23906931/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMtdvP2HKtSywbX2gEuZ8JKKuoius-pfXKMQTG9eQ1qHAiEAzHWdpliog4DAQdCY1aN8FkfkjsFcdrmetTtncxjaVWs%3D/file/index.m3u8
